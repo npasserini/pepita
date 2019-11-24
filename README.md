@@ -28,8 +28,7 @@ Por ejemplo, si la energía de Pepita es de 340 joules, entonces quiere volar 68
 Se puede probar este caso sobre un REPL recién lanzado darle de comer 85 a Pepita, así la energía queda en 340.
 
 > **Nota** <br>
-> Para saber si un número `n` es múltiplo de 20 hacer: 
-> `n % 20 == 0` 
+> Para saber si un número `n` es múltiplo de 20 hacer: `n % 20 == 0` <br>
 > Probarlo en el REPL, p.ej. poner `35 % 20`, `40 % 20`; probar con otros valores.
 
 # Etapa 3 - Más comidas
