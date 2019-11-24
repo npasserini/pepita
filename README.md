@@ -63,7 +63,7 @@ P.ej. arrancando un REPL de cero, debería funcionar como se muestra abajo
 la primera vez que Pepita come mijo, es mijo mojado, entonces da 15 joules.
 La segunda, el mijo está seco, entonces da 20 joules; mas 15 que tenía, hacen 25.
 
-### Canelones
+## Canelones
 Los canelones dan 20 joules. Si tienen salsa, sumar 5 joules. Si tienen queso, sumar 7.
 Entonces tenemos: sin nada 20 joules, con salsa 25, con queso 27, con salsa y queso 32.
 
