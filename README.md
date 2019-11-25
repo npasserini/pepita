@@ -4,9 +4,9 @@ El objetivo del juego es guiar a pepita para sortear los diferentes obstáculos,
 
 # Etapa 1
 En esta primera etapa, pepita sólo puede hacer dos acciones: comer y volar.
-- cuando Pepita `come` una comida, su energía se incrementa en tantas calorías como contenga la comida ingerida.
+- `comer(unaComida)`: cuando Pepita _come_ una comida, su energía se incrementa en tantas calorías como contenga la comida ingerida.
   Inicialmente, la única comida es el alpiste, que otorga 5 calorías al ser ingerido.
-- cuando Pepita `vuela` una cantidad de kilómetros, en este caso gasta una caloría por cada kilómetro, más 10 calorías de "costo fijo" de despegue y aterrizaje.
+- `volar(kilometros)`: cuando Pepita _vuela_ una cantidad de kilómetros, consume una caloría por cada kilómetro más 10 calorías de "costo fijo" de despegue y aterrizaje.
 
 A medida que pepita va volando y comiendo, queremos saber cómo se encuentra, las primeras dos preguntas que pepita sabe contestar son:
 - `estaCansada()`, Pepita _está cansada_ si su energía no llega a 50 calorias.
